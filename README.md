@@ -1,4 +1,4 @@
-# DeepRED-SGLD
+# Unsupervised Bayesian PET Reconstruction
 
 # Prerequisites
 This repository needs the following system settings:
